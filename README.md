@@ -84,6 +84,8 @@ To run the command-line interface:
 ```bash
 python cpu_rag_with_gemini.py
 ```
+<img width="1440" height="416" alt="image" src="https://github.com/user-attachments/assets/faa0b991-0815-45a6-a8b8-bfa3f5f8cd6d" />
+
 
 ### Streamlit UI
 
