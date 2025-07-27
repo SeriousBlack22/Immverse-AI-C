@@ -1,0 +1,7 @@
+RAG stands for Retrieval-Augmented Generation. It combines document retrieval with language models.
+It is used to generate better answers by accessing relevant knowledge.
+Python is a high-level programming language used for many AI projects.
+Machine learning enables machines to learn from data without being explicitly programmed.
+OpenAI developed ChatGPT to provide natural language responses.
+Gemini is a large language model developed by Google for generative tasks.
+CPU-based inference allows low-resource systems to use AI models efficiently.
