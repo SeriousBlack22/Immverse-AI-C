@@ -1,7 +1,23 @@
-# Byte-compiled / optimized / DLL files
+# Environment variables
+.env
+
+# Python bytecode
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv
+venv
+env
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Benchmark results
+benchmark_results.txt
 
 # C extensions
 *.so

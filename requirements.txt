@@ -1,3 +1,7 @@
 faiss-cpu
-sentence-transformers
+streamlit
 google-generativeai
+langchain
+langchain-google-genai
+python-dotenv
+sentence-transformers
